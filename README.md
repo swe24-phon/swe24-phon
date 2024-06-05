@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swe24-phon
 - 👀 I’m interested in cutting edge technologies such as AI, Machine Learning, 3D Printer and generative art
-- 🌱 I’m currently learning c, Python, Django, Javascript, Tailswind, HTML5, Linux
+- 🌱 I’m currently learning C, Python, Django, Javascript, Tailswind, HTML5, Linux, Generative AI
 - 💞️ I’m looking to collaborate on AI app, art related applications, programming
 - 📫 How to reach me cdnclass@outlook.com
 - 😄 Pronouns: He/Him
