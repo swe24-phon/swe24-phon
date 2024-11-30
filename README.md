@@ -9,7 +9,7 @@ I'm always eager to learn about the latest technological advancements. I follow 
 * 🌍  I'm based in Sydney
 * ✉️  You can contact me at [cdnclass@outlook.com](mailto:cdnclass@outlook.com)
 * 🧠  I'm learning Next.js, Flask, API, REST, Rust, Zig and Generative AI
-* 🤝  I'm open to collaborating on Use AI to generate images, video, and music.
+* 🤝  I'm open to collaborating on using AI to generate images, video, and music.
 * ⚡  Experiment with AI to compose original music pieces, or to generate new musical styles.
 
 ### Skills
