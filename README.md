@@ -1,7 +1,7 @@
 My name is Phonexay Soumpholphakdy, my friend call me Phon.
 ===============================================================================================================================================
 
-Software Engineer, Full Stack Developer, Software Tester, Graphic Designer
+Software Engineer, Full Stack Developer, Software Tester, Industrail Designer, Graphic Designer
 --------------------
 
 I'm always eager to learn about the latest technological advancements. I follow tech blogs, attend conferences, and take online courses to stay updated.
